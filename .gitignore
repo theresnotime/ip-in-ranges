@@ -1,0 +1,7 @@
+.vscode/
+.tox/
+.mypy_cache/
+config.py
+__pycache__/
+cidrs.txt
+build/
